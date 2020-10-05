@@ -1,0 +1,33 @@
+*{
+    font-size: .12rem;
+    margin: 0;
+    touch-action: none;
+}
+html{
+    background-color: #efefef;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+h1,
+h2,
+h3,
+h4,
+h5{
+    font-weight: normal;
+}
+
+img {
+  width: 100%;  
+}
+
+button,
+input{
+    border: none;
+    outline: none;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
